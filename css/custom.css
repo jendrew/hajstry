@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+
+body {
+    position: relative;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Playfair Display', Georgia, "Times New Roman", Times, serif;
+}
+
+body,
+input,
+button,
+select,
+textarea,
+
+.navbar-search .search-query {
+    font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.fa-chevron-right, .fa-chevron-left {
+
+    color: black;
+}
+
+
+.fa-chevron-left {
+    margin-left: -170px;
+}
+
+ .fa-chevron-right {
+    margin-left: 170px;
+}
+
+#okladka {
+    border: 1px solid dimgray;
+}
+
+.opis {
+    font-size:1.1em;
+}
+
+.anchor {
+    display:block;
+    position: relative;
+    top: -60px;
+    visibility: hidden;
+
+}
+
+.card-text {
+    font-size: 0.8rem;
+}
+
+
+
